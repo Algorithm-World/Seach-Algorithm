@@ -1,4 +1,4 @@
-# Seach-Algorithm
+# Search-Algorithm
 This repository is dedicated to exploring various search algorithms and their implementation in multiple programming languages. 
 
 It covers a wide range of search techniques, from basic linear and binary search algorithms to more advanced algorithms like depth-first and breadth-first search. Each algorithm is presented with a clear explanation of its working principles, time and space complexity, and code examples for easy understanding.
